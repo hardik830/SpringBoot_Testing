@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/1-starting-project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/1-starting-project/01-Starting_Testing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/1-starting-project/01-starting_Arrays_List_Iterables" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/1-starting-project/01-starting_AssertSame_NotSame_True_NotTrue" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/1-starting-project/01-starting_Custom_displayTestName" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/1-starting-project/01-starting_Junit_Name_Generator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/1-starting-project/01-starting_Order_Test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/1-starting-project/01-starting_Test_Covergae" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/1-starting-project/01-starting_Testing_BeforeAndAfterAnotations" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/1-starting-project/01-starting_Testing_Conditionals_Test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/1-starting-project/01-starting_Testing_MavenCommand" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/1-starting-project/01-starting_assertThrow_AndTimeOut" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/1.1-fizzbuzz-project/01-starting_fizzbuzz" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/1.1-fizzbuzz-project/01-starting_fizzbuzz - paramterizedTest" vcs="Git" />
+  </component>
+</project>
